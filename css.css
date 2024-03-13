@@ -39,6 +39,10 @@ h3{
    font-size: 20px;
 }
 .RQ{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
     text-align: center; 
     color:white; 
     font-size: 20px; 
